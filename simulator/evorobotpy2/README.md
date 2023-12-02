@@ -75,12 +75,12 @@ For an introduction to the theory and to state-of-the-art research in this areas
 
 Please use this BibTeX to cite this repository in your publications:
 ```
-@misc{evorobotpy2,
-  author = {Stefano Nolfi, Brenda S. Machado and Arthur H. Bianchini},
-  title = {A tool for training robots through evolutionary and reinforcement learning methods},
+@misc{evone,
+  author = {Machado, Brenda Silva and Nolfi, Stefano and Bianchini, Arthur},
+  title = {Evorobotpy2 with algorithms based in Niche Evolution},
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/Brenda-Machado/evorobotpy2/}},
+  howpublished = {\url{https://github.com/Brenda-Machado/evorobotpy2-with-ne/}},
 }
 ```
