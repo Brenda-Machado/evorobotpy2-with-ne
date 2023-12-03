@@ -1,5 +1,5 @@
 # Investigação da Eficácia de Técnicas de Nicho e Diferenciação Ambiental aplicadas a Algoritmos da Robótica Evolutiva
-Repository of the investigation conducted in: [not published  yet]
+Repository of the investigation conducted in: https://periodicos.ufsm.br/coming/article/view/85256
 
 ## Credits
 
